@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  background-color: #36454f;
+  color: #b0b0b0;
+}
+
+p {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+img {
+  height: 512px;
+}
