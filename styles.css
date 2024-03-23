@@ -2,7 +2,6 @@ body {
   text-align: center;
   background-color: #36454f;
   color: #b0b0b0;
-  font-family: TESLA;
 }
 
 p {
@@ -12,4 +11,12 @@ p {
 
 img {
   height: 512px;
+}
+
+h1 {
+  font-family: TESLA;
+}
+
+b {
+  font-family: TESLA;
 }
